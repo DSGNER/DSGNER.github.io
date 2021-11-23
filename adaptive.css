@@ -1,0 +1,276 @@
+@media only screen and (max-width:1500px){
+    .Progect{
+        flex-wrap: wrap;
+    }
+
+    .Progect__col4{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .timeline{
+        display: none;
+    }
+
+    .potter{
+        height: 465px;
+    }
+
+    .Fiji{
+        height: 465px;
+    }
+
+    .progect__container, .FONDUE__container{
+        width: 50%;
+    }
+
+    .Lous__number{
+        width: 70%;
+    }
+
+    
+    .Sesann{
+        width: 75%;
+    }
+
+    .Alessi{
+        width: 25%;
+    }
+
+    .tabano{
+        width: 570px;
+    }
+}
+
+@media only screen and (max-width:1499px){
+    .timeline{
+        display: block;
+        width: 50%;
+    }
+
+    .Fiji{
+       height: 300px;
+       width: 50%;
+    }
+
+    .tabano, .potter{
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width:1334px){
+    .proin{
+        margin:10px 0 0 0;
+    }
+
+    .mp{
+        margin: 0 0 0 10%;
+        flex-direction: column;
+    }
+
+    .news__block{
+        width: 50%;
+        height: 600px;
+    }
+}
+
+@media only screen and (max-width:1303px){
+    .footer{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1292px){
+    .Studios{
+        width: 50%;
+    }
+
+    .img__studio{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width:932px){
+    .Studios{
+        width: 90%;
+        margin: 70px auto;
+    }
+
+    .studios__text{
+       margin: 70px auto;
+       padding: 0px;
+    }
+}
+
+@media only screen and (max-width:928px){
+    .header__container{
+        width: 100%;
+    }
+    .hedaer-blue__container{
+        width: 50%;
+    }
+
+    .header-logo__container{
+        padding: 50px;
+    }
+}
+
+@media only screen and (max-width:924px){
+    .news__block{
+        width: 90%;
+        margin: 0 auto;
+        height: 504px;
+    }
+
+    .mp{
+        margin: 70px auto;
+        
+    }
+ 
+    .menu__container{
+        text-align: center;
+    }
+ 
+    .menu{
+        text-align: center;
+        width: 184px;
+        height: 350px;
+        right: -475px;
+    }
+ 
+    .menu__info{
+        flex-direction: column;	
+    }
+
+    .menu-info-link{
+        margin: 0;
+    }
+ 
+  
+}
+
+@media only screen and (max-width:717px){
+    .Progect__col1,.header__container{
+        flex-direction: column;
+    }
+
+    .progect__container, .FONDUE__container, .hedaer-blue__container{
+        width:100%;
+    }
+
+    .Lous{
+        display: none;
+    }
+
+    .Lous__number{
+        width:100%;
+    }
+   
+}
+
+@media only screen and (max-width:685px){
+    .Alessi{
+        display: none;
+    }
+
+    .Sesann{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:560px){
+    .Progect__col4{
+        flex-direction: column;
+    }
+
+    .potter{
+        height: 300px;
+    }
+
+    .potter, .tabano, .Fiji, .timeline{
+        width: 100%;
+    }
+
+    .Studios{
+        width: 100%;
+        margin: 0;
+    }
+
+    .news__block{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width:545px){
+    .Sesann__container{
+        margin-top: 183px;
+    }
+
+    .Sesann-text__container{
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-width:457px){
+    .sesann__heart{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:450px){
+    .Lous__number{
+        padding:96px 20px 0 10px;
+    }
+
+    .menu{
+        text-align: center;
+        width: 184px;
+        height: 350px;
+        top: 170px;
+        right: -320px;
+    }
+}
+
+
+@media only screen and (max-width:386px){
+    .Studios, .news__block{
+        padding: 300px 0 0 150px;
+    }
+
+    .progect-header__nav{
+        padding: 75px 0 0 35px;
+    }
+
+    .mp__container{
+        width: 90%;
+    }
+
+    .proin{
+        margin-top: 50px;
+    }
+
+    .mp__img{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width:342px){
+    .mp__container{
+        width: 330px;
+    }
+
+    .tabano{
+        padding: 0 0 22px 29px;
+    }
+}
+
+@media only screen and (max-width:300px){
+    .Studios, .news__block{
+        padding: 200px 0 0 100px;
+    }
+}
+
+
